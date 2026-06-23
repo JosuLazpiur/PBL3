@@ -1,0 +1,1 @@
+0 0 * * 1 /home/anartz/backup_osoa.sh
